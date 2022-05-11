@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
 
-- 📫 How to reach me **harel@gmail.com**
+- 📫 How to reach me **harel_shalom@yahoo.com**
 
 - ⚡ Fun fact **I love fine humor, and lots of music .**
 

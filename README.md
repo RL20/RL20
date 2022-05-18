@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Ordering App](https://restaurant-ord.herokuapp.com/)**
-- 🔭 I’m currently working on **[Ordering App]([https://restaurant-ord.herokuapp.com/](https://github.com/RL20/restaurant-s-orders))**
+- 🔭 I’m currently working on **[Ordering App](https://github.com/RL20/restaurant-s-orders)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 

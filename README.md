@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RL20&label=Profile%20views&color=0e75b6&style=flat" alt="RL20" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RL20" alt="RL20" /></a> </p>
+
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
 <div align="center">
 <a  href="#"><img  width="250" height="250" src="https://live.staticflickr.com/65535/51903399640_8265160fec_o.jpg" height="175px"/></a></div>

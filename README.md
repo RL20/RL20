@@ -4,7 +4,7 @@
 
 <!-- <a align="center" data-flickr-embed="true" href="https://www.flickr.com/photos/45027510@N08/51903399640/in/datetaken/" title="rls"><img src="https://live.staticflickr.com/65535/51903399640_8265160fec_o.jpg" width="626" height="626" alt="rls"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm R.L</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm R.L</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Israel.</h3>
 
 ## 🙋‍♂️ About Me

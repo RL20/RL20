@@ -55,6 +55,9 @@
 ## 📊 My Github Stats
 
   <br/>
+      <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      
+      
 <!--     <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RL20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -66,6 +69,7 @@
 <!-- <a href="https://github.com/RL20/github-readme-activity-graph"><img alt="RL Shalom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RL20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <!-- New grapg ↓ -->
+<!-- graph src → https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
 [![RL Shalom's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RL20&theme=react-dark)](https://github.com/RL20/github-readme-activity-graph)
 
 <br/>

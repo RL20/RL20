@@ -55,7 +55,7 @@
 ## 📊 My Github Stats
 
   <br/>
-      <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a>
       
       
 <!--     <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->

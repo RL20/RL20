@@ -66,7 +66,7 @@
 <!-- <a href="https://github.com/RL20/github-readme-activity-graph"><img alt="RL Shalom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RL20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <!-- New grapg ↓ -->
-[![RL Shalom's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RL20)](https://github.com/RL20/github-readme-activity-graph)
+[![RL Shalom's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RL20&theme=react-dark)](https://github.com/RL20/github-readme-activity-graph)
 
 <br/>
 <br/>

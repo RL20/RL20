@@ -62,9 +62,12 @@
 <!--  New Github Stats      -->
 <!--  Github Stats src→ https://github.com/anuraghazra/github-readme-stats     -->
 <!-- to hide → &hide=stars,commits,prs,issues,contribs -->
-  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=contribs" /></a>
+<!-- fix bug on 17-01-23: add an env variable called PAT_1 with your github token in vercel 
+https://github.com/anuraghazra/github-readme-stats/issues/2149#issuecomment-1373812812 -->
+
+  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=contribs" /></a>
       
-  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RL20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RL20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

@@ -67,7 +67,7 @@ https://github.com/anuraghazra/github-readme-stats/issues/2149#issuecomment-1373
  https://github.com/anuraghazra/github-readme-stats/issues/2402
 -->
 
-  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-ruby-one.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=contribs" /></a>
+  <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Github Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=RL20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=contribs" /></a>
       
   <a href="https://github.com/RL20/github-readme-stats"><img alt="RL Shalom's Top Languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=RL20&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   

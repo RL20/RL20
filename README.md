@@ -82,7 +82,11 @@ https://github.com/anuraghazra/github-readme-stats/issues/2149#issuecomment-1373
 
 <!-- New grapg ↓ -->
 <!-- graph src → https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
-[![RL Shalom's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RL20&theme=react-dark)](https://github.com/RL20/github-readme-activity-graph)
+<!-- ↓ Deprecated  on  10/06/23 -->
+<!-- [![RL Shalom's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RL20&theme=react-dark)](https://github.com/RL20/github-readme-activity-graph) -->
+
+
+[![RL Shalom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RL20&theme=react-dark)](https://github.com/RL20/github-readme-activity-graph)
 
 <br/>
 <br/>
